@@ -103,5 +103,5 @@ Contributions are welcome! Feel free to submit a **pull request** or open an **i
 ---
 
 ## 📩 Contact  
-📧 **Email:** [proabdomo7med444@gmail.com](mailto:abdulrahmanfaragdatasci@gmail.com)  
-🔗 **GitHub:** [Metwalley](https://github.com/Metwalley)  
+📧 **Email:** [abdulrahmanfaragdatasci@gmail.com](mailto:abdulrahmanfaragdatasci@gmail.com)  
+🔗 **GitHub:** [Metwalley](https://github.com/Metwalley) 
